@@ -1,0 +1,23 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+// Variables
+
+@import 'helpers/vars';
+
+// Components
+
+@import 'components/title';
+
+// Section
+
+@import 'section/header';
+@import 'section/top-banner';
+@import 'section/medal';
+@import 'section/tours';
+@import 'section/offer';
+@import 'section/gallery';
+@import 'section/advantage';
+@import 'section/footer';

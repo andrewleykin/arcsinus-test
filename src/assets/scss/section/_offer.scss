@@ -1,0 +1,24 @@
+.offer {
+  background-color: $bg-green;
+  p {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+  }
+}
+
+.offer__title {
+  color: white;
+  font-size: 40px;
+  line-height: 44px;
+}
+
+.offer__subtitle {
+  font-weight: 400;
+}
+
+.offer__btn {
+  table td {
+    border-radius: 5px;
+  }
+}

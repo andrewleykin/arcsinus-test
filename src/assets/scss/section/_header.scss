@@ -1,0 +1,7 @@
+.header {
+  background-color: $bg-green;
+
+  & .wrapper-inner {
+    padding: 0;
+  }
+}
